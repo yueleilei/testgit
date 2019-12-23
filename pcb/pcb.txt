@@ -1,5 +1,0 @@
-add netlist
-
-add compnent
-
-add wire
